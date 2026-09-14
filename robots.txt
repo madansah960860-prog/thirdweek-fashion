@@ -1,0 +1,8 @@
+# Halden Field
+# Replace the host and sitemap URL with the live domain before launch.
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://www.haldenfield.com/sitemap.xml
